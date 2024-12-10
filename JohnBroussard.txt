@@ -1,0 +1,9 @@
+My name is John Broussard and one fun fact about me
+is that I graduated Austin Peay State Universiy 
+with my associates while in highschool.
+
+The advantage of using git is that when multiple people are working
+on a project, git allows you to make branches to a code. This allows 
+for individual members to make changes to code without affecting working code.
+It makes error detection easier because you can see the branch that went wrong before
+the merge. It also allows you to compare team members code.
